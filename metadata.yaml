@@ -1,0 +1,9 @@
+# GTM Community Template Gallery metadata
+# Replace placeholders before submitting.
+homepage: https://github.com/randicortexlabs/winfluencer-gtm-template
+documentation: https://github.com/randicortexlabs/winfluencer-gtm-template#readme
+issues: https://github.com/randicortexlabs/winfluencer-gtm-template/issues
+support: mailto:randi@cortexlabs.digital
+versions:
+  - sha: replace_this
+    changeNotes: Initial release of Winfluencer Tracking Template.
