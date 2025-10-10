@@ -5,5 +5,5 @@ documentation: https://github.com/randicortexlabs/winfluencer-gtm-template#readm
 issues: https://github.com/randicortexlabs/winfluencer-gtm-template/issues
 support: mailto:randi@cortexlabs.digital
 versions:
-  - sha: replace_this
+  - sha: f3528eaeae1cf6dc42df88d8b27871eb908cea51
     changeNotes: Initial release of Winfluencer Tracking Template.
