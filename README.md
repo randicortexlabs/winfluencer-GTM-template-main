@@ -2,7 +2,7 @@
 
 **Container Type:** WEB  
 **Container Contexts:** WEB  
-**Categories:** ANALYTICS, ADVERTISING
+
 
 Track page views, purchases, leads, and add-to-cart events with optional first-party routing via a CNAME endpoint. The template collects standard UTM parameters and Winfluencer IDs for campaign attribution and supports optional debug logging.
 
