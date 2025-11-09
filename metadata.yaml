@@ -5,6 +5,9 @@ documentation: https://winfluencer.online/docs
 issues: https://github.com/randicortexlabs/winfluencer-gtm-template/issues
 support: https://winfluencer.online/contact
 versions:
+- sha: c684108a28ad2700bfd87a3305f8f545641cab5e
+    changeNotes: |
+      - Adding GTM Terms and conditon 
   - sha: ac1a09fcb396ea1932f39f5469bd0ba4eba71c2e
     changeNotes: |
       - Added support for custom event parameters
