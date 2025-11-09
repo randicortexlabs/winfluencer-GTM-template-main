@@ -1,9 +1,14 @@
 # GTM Community Template Gallery metadata
 # Replace placeholders before submitting.
-homepage: https://github.com/randicortexlabs/winfluencer-gtm-template
-documentation: https://github.com/randicortexlabs/winfluencer-gtm-template#readme
+homepage: https://winfluencer.online
+documentation: https://winfluencer.online/docs
 issues: https://github.com/randicortexlabs/winfluencer-gtm-template/issues
-support: mailto:randi@cortexlabs.digital
+support: https://winfluencer.online/contact
 versions:
+  - sha: ac1a09fcb396ea1932f39f5469bd0ba4eba71c2e
+    changeNotes: |
+      - Added support for custom event parameters
+      - Fixed campaign ID extraction bug
+      - Improved error handling
   - sha: f3528eaeae1cf6dc42df88d8b27871eb908cea51
     changeNotes: Initial release of Winfluencer Tracking Template.
